@@ -1,1 +1,3 @@
-# collaborative-document-platform-117474
+# Project Repository
+
+This is the initial README file for the project.
